@@ -4,7 +4,7 @@
 Create a simple LAN using a switch and verify communication between two PCs.
 
 ## Topology
-![Topology](topology.png)
+![Topology](Lab01_Basic_LAN/topology.png)
 
 ## IP Addressing
 
